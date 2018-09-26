@@ -6,6 +6,8 @@ Friday, Sept. 28, 3-5pm
 University of Maryland, College Park  
 Facilitators: [Purdom Lindblad] and [Ed Summers]  
 
+[dat://75f301f6cbc2c9d152a0fa49ba4cbb22a41c5dfb67f0ca90526df5b3bd691ff1](dat://75f301f6cbc2c9d152a0fa49ba4cbb22a41c5dfb67f0ca90526df5b3bd691ff1)
+
 ## Readings
 
 * [The User + The Learner](https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/) by [Alex Gil](https://twitter.com/elotroalex?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). *-- Alex is giving [a talk](https://mith.umd.edu/dialogues/dd-fall-2018-alex-gil/) here at UMD on Nov. 6)
