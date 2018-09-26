@@ -1,6 +1,6 @@
 # Minimal Computing and Resistance
 
-Digital Studies Colloquium  
+[Digital Studies Colloquium](https://dsah.umd.edu/colloquium/)  
 Friday, Sept. 28, 3-5pm  
 [Tawes 3136]  
 University of Maryland, College Park  
