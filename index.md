@@ -20,7 +20,7 @@ Additional materials relevant to Beaker exercise:
 
 * [Internet censorship in the Catalan referendum](https://media.ccc.de/v/34c3-9028-internet_censorship_in_the_catalan_referendum):  Overview of how the state censored and how it got circumvented (video, 50 mins)
 * [Imagine This: A Web Without Servers](https://www.youtube.com/watch?v=rJ_WvfF3FN8) by [Tara Vancil](https://twitter.com/taravancil) (video, 25 mins)
-*
+* [p2p forever .org](http://p2pforever.org/)
 
 ## Overview
 
