@@ -51,7 +51,7 @@ Here are some (possibly) interesting sites to look at in Beaker (thanks to [\@si
 * [Peer OULIPO](dat://7bb129e7889594e5ec349feffa0e3156a0b77e923d6bf20550842af230ce5923/)
 * [ImageNet Women](dat://089fd0ccb9effab689173b94f5d43c95e122494dbfb0794334c0b135a9ab1b0e/)
 * [queer.archive.work](dat://queer.hashbase.io/)
-* [Internet as a city](dat://internetasacity.hashbase)
+* [Internet as a city](dat://internetasacity.hashbase.io)
 
 Try to create a new project, and a file called `index.md` within it. Add some
 text to it.  Read about the [Markdown](https://daringfireball.net/projects/markdown/syntax) syntax which is a relatively easy way to write HTML that is focused on text rather than angle brackets.  Check out this [cheatsheet](http://packetlife.net/media/library/16/Markdown.pdf), which we'll have some copies of on hand.
