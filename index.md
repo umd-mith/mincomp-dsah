@@ -78,11 +78,11 @@ What questions came to mind as you were experimenting with Beaker? How is it the
 
 How does minimal computing engage questions of infrastructure, equitability, resilience, collaboration?
 
-What can initiatives like Nimble Tents offer you, for your scholarship, for your activism? Building on Gil’s question of “what do we need”?
+What can initiatives like Nimble Tents offer you, for your scholarship, for your activism? Building on Gil's question of "what do we need"?
 
 How does specific work in minimal computing play into the role of digital technology in the environment?
 
-What does minimal computing have to contribute to discussions of ‘decolonizing’ the internet? Are there theoretical frames here that we could use to inform our mincomp practice?
+What does minimal computing have to contribute to discussions of "decolonizing" the Internet? Are there theoretical frames here that we could use to inform our mincomp practice?
 
 Is mincomp a method for maintainers? If so, in what ways? Do ideas of maintenance change our practice?
 
