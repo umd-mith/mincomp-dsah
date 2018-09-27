@@ -18,7 +18,7 @@ Facilitators: [Purdom Lindblad] and [Ed Summers]
 * [The Nimble Tents Toolkit](https://nimbletents.github.io).
 * [Solarpunk Social with Scuttlebutt](https://stealthisshow.com/s04e04/) a podcast interview with *Steal This Show* host [Jamie King](https://twitter.com/jamie_jk).
 
-... and some additional materials relevant to Beaker exercise:
+... and some additional materials relevant to the Beaker exercise:
 
 * [Internet censorship in the Catalan referendum](https://media.ccc.de/v/34c3-9028-internet_censorship_in_the_catalan_referendum):  Overview of how the state censored and how it got circumvented (video, 50 mins)
 * [Imagine This: A Web Without Servers](https://www.youtube.com/watch?v=rJ_WvfF3FN8) by [Tara Vancil](https://twitter.com/taravancil) (video, 25 mins)
