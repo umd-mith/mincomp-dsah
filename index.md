@@ -53,8 +53,7 @@ Here are some (possibly) interesting sites to look at in Beaker (thanks to [\@si
 * [queer.archive.work](dat://queer.hashbase.io/)
 * [Internet as a city](dat://internetasacity.hashbase.io)
 
-Try to create a new project, and a file called `index.md` within it. Add some
-text to it.  Read about the [Markdown](https://daringfireball.net/projects/markdown/syntax) syntax which is a relatively easy way to write HTML that is focused on text rather than angle brackets.  Check out this [cheatsheet](http://packetlife.net/media/library/16/Markdown.pdf), which we'll have some copies of on hand.
+Try to create a new project, and a file called `index.md` within it. Add some text to it.  Read about the [Markdown](https://daringfireball.net/projects/markdown/syntax) syntax which is a relatively easy way to write HTML that is focused on text rather than angle brackets.  Check out this [cheatsheet](http://packetlife.net/media/library/16/Markdown.pdf), which we'll have some copies of on hand.
 
 See if you can share your site with others by emailing them the *Dat URL*. If they aren't able to see it email it to Ed at [ehs@pobox.com](mailto:ehs@pobox.com) so he can try seeding it from outside the UMD network.
 
