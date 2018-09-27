@@ -60,6 +60,8 @@ See if you can share your site with others by emailing them the *Dat URL*. If th
 
 Try to "seed" a site. What do you think this means? Why would you want to seed a site? Can you figure out where the data is stored locally on your computer?
 
+Disconnect from the Internet and see what you are still able to browse and read.
+
 If you are really getting into this, try installing [Dat], which is the underlying protocol and software library that Beaker uses. See if you can figure out how to use it to fetch the site you created. Or this site: dat://mincomp.mith.us
 
 ### Discussion (1 hr)
@@ -89,11 +91,15 @@ How does minimal computing help us think/critique/engage with the tools of our s
 ## Learning More
 
 * MITH shared workspace hours?
-* static sites
-* decentralized social media: Mastodon, Scuttlebutt
+* Static sites session?
+* [How I publish taravancil.com on the peer-to-peer Web](https://taravancil.com/blog/how-i-publish-taravancil-com/) by Tara Vancil.
+* Decentralized social media: [Mastodon], [Scuttlebutt]
 * [How to build a low-tech website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/)
+* [Minimal Computing Mailing List](http://go-dh.github.io/mincomp/join/)
 
 [Purdom Lindblad]: https://mith.umd.edu/people/person/purdom-lindblad/
 [Ed Summers]: https://mith.umd.edu/people/person/ed-summers/
 [Tawes 3136]: https://goo.gl/maps/3v5c28paZNB2
 [Dat]: https://datproject.org/
+[Mastodon]: https://carlchenet.com/the-importance-of-choosing-the-correct-mastodon-instance/
+[Scuttlebutt]: https://www.scuttlebutt.nz/
