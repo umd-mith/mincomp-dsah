@@ -68,7 +68,7 @@ If you are really getting into this, try installing [Dat], which is the underlyi
 
 We have some time to talk about what we learned about Beaker, and how it may or may not relate to minimal computing and the goals of resistance. Here are some possible discussion topics:
 
-What, if any, is the relationship between minimal computing and resistance? How do you “resist” social media or digital culture more generally? Are there points of friction or “resistance” that feel like barriers to you?
+What, if any, is the relationship between minimal computing and resistance? How do you "resist" social media or digital culture more generally? Are there points of friction or "resistance" that feel like barriers to you?
 
 Based on what we know about minimal computing and our recent experience using Beaker, do you consider Beaker to be an example of a minimal computing project? In what ways does it support the goals of minimal computing, and in what ways doesn't it?
 
