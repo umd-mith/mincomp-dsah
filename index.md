@@ -33,7 +33,7 @@ Discussion of minimal computing, what people think it is, challenges/provocation
 
 ### Experimentation (1 hr)
 
-We'll start with a very brief introduction to distributed web projects, and what the BeakerBrowser project is.
+We'll start with a very brief [introduction](slides/) to distributed web projects, and what the BeakerBrowser project is.
 
 Please install [Beaker](https://beakerbrowser.com/) and see if you can make heads or tails of the [tour](dat://beakerbrowser.com/docs/tour)
 
