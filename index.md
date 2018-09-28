@@ -12,8 +12,8 @@ Facilitators: [Purdom Lindblad] and [Ed Summers]
 
 * [The User + The Learner](https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/) by [Alex Gil](https://twitter.com/elotroalex?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor). *-- Alex is giving [a talk](https://mith.umd.edu/dialogues/dd-fall-2018-alex-gil/) here at UMD on Nov. 6)*
 * [Minimal Definitions](https://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/) by Jentery Sayers.
-* [Text-only news sites are slowly making a comeback](https://lite.cnn.io/en) by [Melody Kramer](https://twitter.com/mkramer).
-* *Torn Apart*, [vol. 1](https://xpmethod.plaintext.in/torn-apart/volume/1/) and [vol. 2](https://xpmethod.plaintext.in/torn-apart/volume/2/).
+* [Text-only news sites are slowly making a comeback](https://www.poynter.org/news/text-only-news-sites-are-slowly-making-comeback-heres-why) (e.g. [CNN](https://lite.cnn.io/en) by [Melody Kramer](https://twitter.com/mkramer).
+* *Torn Apart*, vols [1](https://xpmethod.plaintext.in/torn-apart/volume/1/) and [2](https://xpmethod.plaintext.in/torn-apart/volume/2/).
 * [ICE is Everywhere: Using Library Science to Map the Separation Crisis](https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/) by [Emily Dreyfuss](https://twitter.com/EmilyDreyfuss), *Wired*.
 * [The Nimble Tents Toolkit](https://nimbletents.github.io).
 * [Solarpunk Social with Scuttlebutt](https://stealthisshow.com/s04e04/) a podcast interview with *Steal This Show* host [Jamie King](https://twitter.com/jamie_jk).
@@ -92,7 +92,8 @@ How does minimal computing help us think/critique/engage with the tools of our s
 * MITH shared workspace hours?
 * Static sites session?
 * [How I publish taravancil.com on the peer-to-peer Web](https://taravancil.com/blog/how-i-publish-taravancil-com/) by Tara Vancil.
-* Decentralized social media: [Mastodon], [Scuttlebutt]
+* Decentralized social media: [Mastodon], [Scuttlebutt], [Briar]
+* [Datcast]: a podcast about the Dat and Beaker
 * [How to build a low-tech website](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/)
 * [Minimal Computing Mailing List](http://go-dh.github.io/mincomp/join/)
 
@@ -102,3 +103,5 @@ How does minimal computing help us think/critique/engage with the tools of our s
 [Dat]: https://datproject.org/
 [Mastodon]: https://carlchenet.com/the-importance-of-choosing-the-correct-mastodon-instance/
 [Scuttlebutt]: https://www.scuttlebutt.nz/
+[Briar]: https://briarproject.org/index.html
+[Datcast]: https://dat-cast.hashbase.io/
